@@ -1,0 +1,5 @@
+{
+  "name": "AI Hairstyle Preview",
+  "description": "Upload a portrait photo and see how different hairstyles look on you using AI.",
+  "requestFramePermissions": []
+}
